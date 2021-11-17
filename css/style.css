@@ -44,7 +44,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
 .txtbtn a p{text-align: center; font-weight: bold; line-height: 40px;}
 .imgBox{
     width: 55%; height: 380px;
-    background: url('/img/imgbox.png');
+    background: url('../img/imgbox.png');
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
@@ -52,7 +52,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
 }
 .logoImg{
     width: 300px; height: 200px;
-    background: url('/img/logo.png');
+    background: url('../img/logo.png');
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
