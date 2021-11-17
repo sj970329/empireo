@@ -27,6 +27,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
 }
 
 /* container */
+.container{padding: 0 3em;}
 .txtBox{
     width: 55%; height: 380px;
     background: #9ba6a8;
@@ -46,12 +47,12 @@ header{width: 100%; font-family: 'Italiana', serif;}
 .txtbtn{width: 25%; border: #333 2px solid;}
 .txtbtn a p{text-align: center; font-weight: bold; line-height: 40px;}
 .imgBox{
-    width: 55%; height: 380px;
+    width: 50%; height: 380px;
     background: url('../img/imgbox.png');
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
-    top: 40%; right: 0;
+    top: 35%; right: 3em;
 }
 .logoImg{
     width: 300px; height: 200px;
