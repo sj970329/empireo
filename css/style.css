@@ -32,7 +32,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
     width: 55%; height: 380px;
     background: #9ba6a8;
     color: #333;
-    padding: 1.5em; box-sizing: border-box;
+    padding: 2em 2em 2em 3em; box-sizing: border-box;
 }
 .txtTitle{
     font-family: 'Italiana', serif;
@@ -40,7 +40,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
 }
 .txtTitle h3{font-weight: lighter; font-size: 1.5em;}
 .txtmain, .txtbtn{font-family: 'Noto Sans KR', sans-serif;}
-.txtmain{padding: 20px 140px 20px 0; box-sizing: border-box;}
+.txtmain{padding: 20px 130px 20px 0; box-sizing: border-box;}
 .txtmain p{
     line-height: 30px;
 }
