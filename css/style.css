@@ -52,7 +52,7 @@ header{width: 100%; font-family: 'Italiana', serif;}
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
-    top: 35%; right: 3em;
+    top: 40%; right: 3em;
 }
 .logoImg{
     width: 300px; height: 200px;
@@ -60,6 +60,6 @@ header{width: 100%; font-family: 'Italiana', serif;}
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
-    top: 400px; left: 440px; 
+    top: 400px; left: 450px; 
     z-index: 9;
 }
