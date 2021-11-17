@@ -56,7 +56,6 @@ header{width: 100%; font-family: 'Italiana', serif;}
     background-repeat : no-repeat;
     background-size : cover;
     position: absolute;
-    top: 85%; left: 45%;
-    transform: translate(-50%,-50%);
+    top: 400px; left: 440px; 
     z-index: 9;
 }
