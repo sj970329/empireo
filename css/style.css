@@ -19,10 +19,10 @@ header{width: 100%; font-family: 'Italiana', serif;}
     display: flex;
 }
 .logo h3{
-    font-size: 3em; font-weight: lighter; 
+    font-size: 3em; font-weight: normal; 
 }
 .title h4{
-    font-size: 1.5em; font-weight: lighter;
+    font-size: 1.5em; font-weight: normal;
     padding: 1em 1em 1em 3em;
 }
 
@@ -36,9 +36,9 @@ header{width: 100%; font-family: 'Italiana', serif;}
 }
 .txtTitle{
     font-family: 'Italiana', serif;
-    padding: 20px 0;
+    padding-top: 10px;
 }
-.txtTitle h3{font-weight: lighter; font-size: 1.5em;}
+.txtTitle h3{font-weight: normal; font-size: 1.5em;}
 .txtmain, .txtbtn{font-family: 'Noto Sans KR', sans-serif;}
 .txtmain{padding: 20px 130px 20px 0; box-sizing: border-box;}
 .txtmain p{
